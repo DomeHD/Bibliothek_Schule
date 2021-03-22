@@ -7,7 +7,7 @@ import java.util.ArrayList;
 public class Bibliothek{
 
     private static final Bibliothek ini = new Bibliothek();
-    private final String filepath=  "F://javaDateiTest/dat.dom";
+    private final String filepath=  "F://javaDateiTest/dat1.dom";
 
     public ArrayList<Medium> vc;
 
@@ -18,6 +18,9 @@ public class Bibliothek{
     public void SpeicherAlleMedien() {
         for(Medium m : vc) {
             try {
+                File file = new File(filepath);
+                if(file.exists()) file.delete();
+
                 ObjectOutputStream o = new ObjectOutputStream(new FileOutputStream(filepath, true));
                 o.writeObject(vc);
                 o.close();

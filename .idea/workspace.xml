@@ -1,17 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="876005c5-8e5c-4c14-8079-40ad29e3aa3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GUI/GuiStartBibliohek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Startbibliothek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Startbibliothek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/NewWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bibliothek/Main/Startbibliothek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bibliothek/util/Ausleihe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bibliothek/util/Bibliothek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bibliothek/util/Buch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bibliothek/util/DVD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bibliothek/util/Medium.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bibliothek/util/MediumExexption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bibliothek_Schule/GUI/GuiStartBibliohek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bibliothek_Schule/GUI/GuiStartBibliohek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bibliothek_Schule/Main/Startbibliothek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bibliothek_Schule/Main/Startbibliothek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bibliothek_Schule/util/Ausleihe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bibliothek_Schule/util/Ausleihe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bibliothek_Schule/util/Bibliothek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bibliothek_Schule/util/Bibliothek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bibliothek_Schule/util/Buch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bibliothek_Schule/util/Buch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bibliothek_Schule/util/DVD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bibliothek_Schule/util/DVD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bibliothek_Schule/util/Medium.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bibliothek_Schule/util/Medium.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bibliothek_Schule/util/MediumExexption.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bibliothek_Schule/util/MediumExexption.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/GuiStartBibliohek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/GuiStartBibliohek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/Bibliothek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/Bibliothek.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,31 +49,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main/Startbibliothek.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/GUI/GuiStartBibliohek.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="81" column="89" selection-start-line="81" selection-start-column="89" selection-end-line="81" selection-end-column="89" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,65 +60,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Main/Startbibliothek.java" />
-        <option value="$PROJECT_DIR$/src/GUI/GuiStartBibliohek.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="214" />
-    <option name="y" value="418" />
-    <option name="width" value="1432" />
-    <option name="height" value="860" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Bibliothek_Schule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bibliothek_Schule" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Bibliothek_Schule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bibliothek_Schule" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Bibliothek_Schule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bibliothek_Schule" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Main" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1q7DbpmoCf5BIU8ePk5ZG3fvnbk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Startbibliothek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -136,6 +88,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -149,55 +102,41 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="864" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964131" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32880434" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32880434" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main/Startbibliothek.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GUI/GuiStartBibliohek.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="81" column="89" selection-start-line="81" selection-start-column="89" selection-end-line="81" selection-end-column="89" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="1085" y="426" key="#com.intellij.ide.util.MemberChooser" timestamp="1616427480785">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1085" y="426" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1440/2560.216.1920.1080@0.0.2560.1440" timestamp="1616427480785" />
+    <state width="2517" height="412" key="GridCell.Tab.0.bottom" timestamp="1616429269671">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="412" key="GridCell.Tab.0.bottom/0.0.2560.1440/2560.216.1920.1080@0.0.2560.1440" timestamp="1616429269671" />
+    <state width="2517" height="412" key="GridCell.Tab.0.center" timestamp="1616429269671">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="412" key="GridCell.Tab.0.center/0.0.2560.1440/2560.216.1920.1080@0.0.2560.1440" timestamp="1616429269671" />
+    <state width="2517" height="412" key="GridCell.Tab.0.left" timestamp="1616429269671">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="412" key="GridCell.Tab.0.left/0.0.2560.1440/2560.216.1920.1080@0.0.2560.1440" timestamp="1616429269671" />
+    <state width="2517" height="412" key="GridCell.Tab.0.right" timestamp="1616429269671">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="412" key="GridCell.Tab.0.right/0.0.2560.1440/2560.216.1920.1080@0.0.2560.1440" timestamp="1616429269671" />
+    <state x="1097" y="634" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616428131655">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1097" y="634" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440/2560.216.1920.1080@0.0.2560.1440" timestamp="1616428131655" />
   </component>
 </project>
